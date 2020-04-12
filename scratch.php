@@ -28,4 +28,23 @@
                 <li><a href="">contact</a></li>
             </ul>
         </nav>
+<h2 class="mot">
+      
+      make your order online now!    
+    
+    </h2>
+   
+     <h1 class="hero-title"> 
+        
+        <span class="hero-title s1">get what</span>
+     
+       <br> 
+          
+      <span class="hero-title s2"> you </span>
+          
+  <br>
+          
+      <span class="hero-title s3">deserve !!</span>
+   
+     </h1>
 </body>
